@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=0769AD)
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
-![TailWind](https://img.shields.io/badge/-TailWind-000000?style=flat&logo=TailWind)
+![TailWindCss](https://img.shields.io/badge/-TailWindCss-000000?style=flat&logo=TailWindCss)
 
 **Operating Systems**
 
