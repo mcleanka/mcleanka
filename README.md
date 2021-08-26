@@ -41,10 +41,10 @@
 
 **Web/Full Stack projects**
 
-[![ReactEcommerce](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;ReactReduxeCommerce-000000?style=flat)](https://github.com/shakilkhan12/Youtube-React-Redux-eCommerce)
-[![Vue & Vuex Amazon Clone](https://img.shields.io/badge/🦠&nbsp;&nbsp;VueAmazon-000000?style=flat)](https://github.com/shakilkhan12/Youtube-vuejs-amazon-clone)
-[![MERN Blog](https://img.shields.io/badge/-📰&nbsp;&nbsp;MERNBlog-000000?style=flat)](https://github.com/shakilkhan12/Youtube-Mern-Stack-Blog)
-[![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
+[![Vue File Manager](https://img.shields.io/badge/-🧬&nbsp;&nbsp;Vue&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/vue-file-manager)
+[![Laravel File Manager](https://img.shields.io/badge/🦠&nbsp;&nbsp;Laravel;&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/laravel-file-manager)
+[![Resume Clone](https://img.shields.io/badge/-📰&nbsp;&nbsp;ResumeClone-000000?style=flat)](https://github.com/mcleanka/resume)
+[![React Covid Tracker Dashboard](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Covid&nbsp;Tracker&nbsp;Dashboard-000000?style=flat)](https://github.com/mcleanka/react-covid-tracker-dashboard)
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=mcleanka&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /> <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&hide_title=false&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
