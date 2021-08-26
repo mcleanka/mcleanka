@@ -29,6 +29,10 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 
+**Micro Controller Technology Tools**
+
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
+
 **Favourite Editors**
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=AndroidStudio)
@@ -42,7 +46,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=BitBucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
-![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 
 **Web/Full Stack projects**
 
