@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
+![AngularJs](https://img.shields.io/badge/-AngularJs-000000?style=flat&logo=Angular)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL)
 ![codeigniter](https://img.shields.io/badge/-codeigniter-000000?style=flat&logo=codeigniter)
