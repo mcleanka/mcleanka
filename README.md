@@ -1,10 +1,12 @@
-[![profile.zonse.com](https://img.shields.io/badge/-zonse-000000?style=for-the-badge&logo=react&logoColor=white)](http://profile.zonse.com/)
+[![profile.zonse.com](https://img.shields.io/badge/-zonse-000000?style=for-the-badge&logo=python&logoColor=white)](http://profile.zonse.com/)
 
 **Languages**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
@@ -14,6 +16,8 @@
 ![codeigniter](https://img.shields.io/badge/-codeigniter-000000?style=flat&logo=codeigniter&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=0769AD)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
 
 **Operating Systems**
 
