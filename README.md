@@ -1,4 +1,4 @@
-[![profile.zonse.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)](http://profile.zonse.com/)
+[![profile.zonse.com](https://img.shields.io/badge/-zonse-000000?style=for-the-badge&logo=react&logoColor=white)](http://profile.zonse.com/)
 
 **Languages I have used**
 
@@ -25,4 +25,5 @@
 [![React ColorPicker](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Color&nbsp;Picker-000000?style=flat)](https://github.com/shakilkhan12/ReactColorPicker)
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
