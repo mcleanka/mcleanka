@@ -39,9 +39,10 @@
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=BitBucket&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=BitBucket)
+![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
+![RasberryPi](https://img.shields.io/badge/-RasberryPi-000000?style=flat&logo=RasberryPi)
 
 **Web/Full Stack projects**
 
