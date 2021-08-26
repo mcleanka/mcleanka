@@ -33,7 +33,7 @@
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=AndroidStudio)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=VisualStudio)
-![Sublime](https://img.shields.io/badge/-Sublime-000000?style=flat&logo=Sublime)
+![SublimeText](https://img.shields.io/badge/-SublimeText-000000?style=flat&logo=SublimeText)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
 
 **Some of the technologies I have worked with**
