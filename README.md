@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=BitBucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
-![RasberryPi](https://img.shields.io/badge/-RasberryPi-000000?style=flat&logo=RasberryPi)
+![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 
 **Web/Full Stack projects**
 
