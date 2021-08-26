@@ -42,7 +42,7 @@
 **Web/Full Stack projects**
 
 [![Vue File Manager](https://img.shields.io/badge/-🧬&nbsp;&nbsp;Vue&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/vue-file-manager)
-[![Laravel File Manager](https://img.shields.io/badge/🦠&nbsp;&nbsp;Laravel;&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/laravel-file-manager)
+[![Laravel File Manager](https://img.shields.io/badge/🦠&nbsp;&nbsp;Laravel&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/laravel-file-manager)
 [![Resume Clone](https://img.shields.io/badge/-📰&nbsp;&nbsp;ResumeClone-000000?style=flat)](https://github.com/mcleanka/resume)
 [![React Covid Tracker Dashboard](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Covid&nbsp;Tracker&nbsp;Dashboard-000000?style=flat)](https://github.com/mcleanka/react-covid-tracker-dashboard)
 
