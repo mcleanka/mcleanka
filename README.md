@@ -1,6 +1,6 @@
 [![profile.zonse.com](https://img.shields.io/badge/-zonse-000000?style=for-the-badge&logo=react&logoColor=white)](http://profile.zonse.com/)
 
-**Languages I have used**
+**Languages**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=00599C)
@@ -14,6 +14,17 @@
 ![codeigniter](https://img.shields.io/badge/-codeigniter-000000?style=flat&logo=codeigniter&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=0769AD)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+
+**Editors**
+
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=AndroidStudio)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=VisualStudio)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
 
 **Some of the technologies I have worked with**
 
