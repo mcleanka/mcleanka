@@ -28,8 +28,8 @@
 
 **Operating Systems**
 
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 
 **Microcontroller Technology Tools**
 
