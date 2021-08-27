@@ -12,6 +12,7 @@
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-000000?style=flat&logo=Angular)
@@ -23,6 +24,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=Sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
 ![TailWindCss](https://img.shields.io/badge/-TailWindCss-000000?style=flat&logo=TailWindCss)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MaterialUI)
 
 **Operating Systems**
 
