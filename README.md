@@ -31,7 +31,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 
-**Micro Controller Technology Tools**
+**Microcontroller Technology Tools**
 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 
