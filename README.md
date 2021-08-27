@@ -41,7 +41,7 @@
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=VisualStudio)
 ![SublimeText](https://img.shields.io/badge/-SublimeText-000000?style=flat&logo=SublimeText)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
-![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat&logo=Pycharm&logoColor=1dd1a1)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=1dd1a1)
 
 **Some of the technologies I have worked with**
 
