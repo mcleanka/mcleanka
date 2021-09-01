@@ -60,6 +60,6 @@
 **Personal Statistics**
 <img align="right" height='130px' alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge&height=130px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge)
 
 <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
