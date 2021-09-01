@@ -58,7 +58,8 @@
 [![React Covid Tracker Dashboard](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Covid&nbsp;Tracker&nbsp;Dashboard-000000?style=flat)](https://github.com/mcleanka/react-covid-tracker-dashboard)
 
 **Personal Statistics**
-<img align="right" height='130px' alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
+
+<img align="right" alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge)
 
