@@ -57,8 +57,9 @@
 [![Resume Clone](https://img.shields.io/badge/-📰&nbsp;&nbsp;Resume&nbsp;Clone-000000?style=flat)](https://github.com/mcleanka/resume)
 [![React Covid Tracker Dashboard](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Covid&nbsp;Tracker&nbsp;Dashboard-000000?style=flat)](https://github.com/mcleanka/react-covid-tracker-dashboard)
 
-<img align="right" alt="colinodell's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
+**Personal Statistics**
+<img align="right" height='130px' alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge&height=130px)
 
-<a href="https://github.com/colinodell/colinodell/actions"><img src="https://github.com/mcleanka/mcleanka/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+<a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
