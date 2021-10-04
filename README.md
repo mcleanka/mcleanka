@@ -49,6 +49,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-000000?style=flat&logo=BitBucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat&logo=GitLab)
+![Trello](https://img.shields.io/badge/-Trello-006699?style=flat&logo=Trello)
+![Slack](https://img.shields.io/badge/-Slack-f66d9b?style=flat&logo=Slack)
 
 **Web/Full Stack projects**
 
