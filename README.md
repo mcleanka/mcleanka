@@ -31,6 +31,11 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 
+**Cloud Computing**
+
+![MicroSoftAzure](https://img.shields.io/badge/-MicroSoftAzure-000000?style=flat&logo=MicroSoftAzure)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=DigitalOcean)
+
 **Microcontroller Technology Tools**
 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
