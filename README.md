@@ -31,7 +31,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows)
 
-**Server Familia With**
+**Servers**
 
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache)
 ![Ngix](https://img.shields.io/badge/-Ngix-000000?style=flat&logo=windows)
