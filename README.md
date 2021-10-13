@@ -36,7 +36,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache)
 ![Ngix](https://img.shields.io/badge/-Ngix-000000?style=flat&logo=windows)
 
-**Cloud Computing**
+**DevOps**
 
 ![MicroSoftAzure](https://img.shields.io/badge/-MicroSoftAzure-000000?style=flat&logo=MicroSoftAzure)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=DigitalOcean)
