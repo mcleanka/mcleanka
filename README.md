@@ -29,7 +29,7 @@
 **Content Management Technologies**
 
 ![WordPress](https://img.shields.io/badge/-WordPress-006699?style=flat&logo=WordPress)
-![Joomla](https://img.shields.io/badge/-Joomla-006699?style=flat&logo=Joomla)
+![Joomla](https://img.shields.io/badge/-Joomla-000000?style=flat&logo=Joomla)
 
 **Operating Systems**
 
