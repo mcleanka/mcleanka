@@ -26,6 +26,11 @@
 ![TailWindCss](https://img.shields.io/badge/-TailWindCss-000000?style=flat&logo=TailWindCss)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MaterialUI)
 
+**Content Management Technologies**
+
+![WordPress](https://img.shields.io/badge/-WordPress-006699?style=flat&logo=WordPress)
+![Joomla](https://img.shields.io/badge/-Joomla-006699?style=flat&logo=Joomla)
+
 **Operating Systems**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
