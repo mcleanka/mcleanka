@@ -75,4 +75,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge)
 
-<a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+![Views](https://komarev.com/ghpvc/?username=mcleanka) <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
