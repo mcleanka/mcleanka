@@ -1,5 +1,10 @@
 [![profile.zonsetech.com](https://img.shields.io/badge/-zonse.com-000000?style=for-the-badge&logo=python&logoColor=white)](http://profile.zonsetech.com/)
 
+<h1>
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
 **Languages**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
