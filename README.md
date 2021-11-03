@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00c0f1&size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=006699&size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
 </p>
 
 **Languages**
