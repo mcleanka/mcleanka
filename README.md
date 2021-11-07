@@ -49,6 +49,7 @@
 
 ![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache)
 ![Ngix](https://img.shields.io/badge/-Ngix-000000?style=flat&logo=windows)
+![MsSql](https://img.shields.io/badge/-Sqlite-000000?style=flat&logo=sqlite)
 
 **DevOps**
 
