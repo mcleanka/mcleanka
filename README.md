@@ -34,6 +34,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
 ![TailWindCss](https://img.shields.io/badge/-TailWindCss-000000?style=flat&logo=TailWindCss)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MaterialUI)
+![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=MySql)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000000?style=flat&logo=MicrosoftSQLServer)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 
 **Content Management Technologies**
 
