@@ -1,12 +1,12 @@
 [![profile.zonsetech.com](https://img.shields.io/badge/-zonse.com-000000?style=for-the-badge&logo=python&logoColor=white)](http://profile.zonsetech.com/)
 
 <h1>
-  Welcome to my profile!
+  Welcome to my profile!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=006699&size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
 </p>
 
 **Languages**
@@ -96,5 +96,5 @@
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mcleanka&bg_color=EFEFEF&color=006699&line=00599C&point=666666&hide_border=true" /></a>
 </p>
-    
+  
 ![Views](https://komarev.com/ghpvc/?username=mcleanka) <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
