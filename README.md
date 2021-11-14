@@ -1,4 +1,4 @@
-[![profile.zonsetech.com](https://img.shields.io/badge/-zonse.com-000000?style=for-the-badge&logo=python&logoColor=white)](http://profile.zonsetech.com/)
+[![profile.zonsetech.com](https://img.shields.io/badge/-zonse.com-006699?style=for-the-badge&logo=python&logoColor=white)](http://profile.zonsetech.com/)
 
 <h1>
   Welcome to my profile!!!
