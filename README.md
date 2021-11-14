@@ -18,7 +18,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
-![Android](https://img.shields.io/badge/-AndroidApps-000000?style=flat&logo=Android)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=Android)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=61DAFB)
