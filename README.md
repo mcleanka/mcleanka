@@ -61,6 +61,7 @@
 **Microcontroller Technology Tools**
 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=Arduino)
 
 **Favourite Editors**
 
