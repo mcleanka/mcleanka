@@ -9,13 +9,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=480&lines=Hey%2C+I+'am+Mclean+Classic+Kasambala.;Love+to+learn%2C+analyze%2C+and+apply.;Passionate+about+Software+Development.;Am+full-stack+Developer.;Feel+free+to+connect+with+me.;Nice+to+meet+you...!">
 </p>
 
-**Languages**
+**Languages, libraries and frameworks**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=Qt)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=JAVA)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
