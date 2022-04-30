@@ -35,6 +35,7 @@
 ![TailWindCss](https://img.shields.io/badge/-TailWindCss-000000?style=flat&logo=TailWindCss)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=MaterialUI)
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=MySql)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=SQLite)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000000?style=flat&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 
