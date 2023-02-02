@@ -18,7 +18,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=Qt)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby-on-rails)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
@@ -45,6 +44,8 @@
 
 ![WordPress](https://img.shields.io/badge/-WordPress-006699?style=flat&logo=WordPress)
 ![Joomla](https://img.shields.io/badge/-Joomla-000000?style=flat&logo=Joomla)
+![SharePoint](https://img.shields.io/badge/-SharePoint-000000?style=flat&logo=SharePoint)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000000?style=flat&logo=PowerBI)
 
 **Operating Systems**
 
