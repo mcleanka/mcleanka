@@ -39,6 +39,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=SQLite)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-000000?style=flat&logo=MicrosoftSQLServer)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=Ruby)
+![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-000000?style=flat&logo=RubyOnRails)
 
 **Content Management Technologies**
 
