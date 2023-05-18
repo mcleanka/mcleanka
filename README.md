@@ -104,4 +104,4 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mcleanka&bg_color=EFEFEF&color=006699&line=00599C&point=666666&hide_border=true" /></a>
 </p>
   
-![Views](https://komarev.com/ghpvc/?username=mcleanka) <a href="https://github.com/mcleanka/mcleanka/actions"><img src="https://github.com/colinodell/colinodell/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+[![mcleanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mcleanka&bg_color=efefef&color=77767b&line=c0bfbc&point=c0bfbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
