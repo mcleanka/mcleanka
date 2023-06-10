@@ -19,7 +19,6 @@
 ![Qt](https://img.shields.io/badge/-Qt-000000?style=flat&logo=Qt)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![RubyOnRails](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby-on-rails)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=61DAFB)
 ![NuxtJs](https://img.shields.io/badge/-NuxtJs-000000?style=flat&logo=Nuxt.js)
