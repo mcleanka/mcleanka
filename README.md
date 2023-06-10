@@ -28,7 +28,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=Ionic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=007ACC)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-000000?style=flat&logo=Angular)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![LARAVEL](https://img.shields.io/badge/-LARAVEL-000000?style=flat&logo=LARAVEL)
