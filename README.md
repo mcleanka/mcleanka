@@ -24,6 +24,7 @@
 ![NuxtJs](https://img.shields.io/badge/-NuxtJs-000000?style=flat&logo=Nuxt.js)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![Firebase.js](https://img.shields.io/badge/-Firebase.js-000000?style=flat&logo=Firebase.js)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-000000?style=flat&logo=Angular)
