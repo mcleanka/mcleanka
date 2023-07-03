@@ -24,7 +24,8 @@
 ![NuxtJs](https://img.shields.io/badge/-NuxtJs-000000?style=flat&logo=Nuxt.js)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
-![Firebase.js](https://img.shields.io/badge/-Firebase.js-000000?style=flat&logo=Firebase.js)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase)
+![Graphql](https://img.shields.io/badge/-Graphql-000000?style=flat&logo=Graphql)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js&logoColor=1dd1a1)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![AngularJs](https://img.shields.io/badge/-AngularJs-000000?style=flat&logo=Angular)
@@ -81,6 +82,7 @@
 ![SublimeText](https://img.shields.io/badge/-SublimeText-000000?style=flat&logo=SublimeText)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=1dd1a1)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=Expo&logoColor=1dd1a1)
 
 **Some of the technologies I have worked with**
 
