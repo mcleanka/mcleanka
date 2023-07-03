@@ -82,7 +82,7 @@
 ![SublimeText](https://img.shields.io/badge/-SublimeText-000000?style=flat&logo=SublimeText)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=VisualStudioCode&logoColor=00599C)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=1dd1a1)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=Expo&logoColor=1dd1a1)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=Expo)
 
 **Some of the technologies I have worked with**
 
