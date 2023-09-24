@@ -20,6 +20,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=Svelte)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=ReactNative)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=61DAFB)
 ![NuxtJs](https://img.shields.io/badge/-NuxtJs-000000?style=flat&logo=Nuxt.js)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=Next.js)
