@@ -79,6 +79,7 @@
 
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-000000?style=flat&logo=RaspberryPi)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=Arduino)
+![esp32](https://img.shields.io/badge/-esp32-000000?style=flat&logo=esp32)
 
 **Favourite Editors**
 
