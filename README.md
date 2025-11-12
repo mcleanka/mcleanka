@@ -110,6 +110,4 @@
 
 <img align="right" alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcleanka&exclude_repo=mcforge)
-  
 [![mcleanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mcleanka&bg_color=efefef&color=77767b&line=c0bfbc&point=c0bfbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
