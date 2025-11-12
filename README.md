@@ -105,9 +105,3 @@
 [![Laravel File Manager](https://img.shields.io/badge/🦠&nbsp;&nbsp;Laravel&nbsp;File&nbsp;Manager-000000?style=flat)](https://github.com/mcleanka/laravel-file-manager)
 [![Resume](https://img.shields.io/badge/-📰&nbsp;&nbsp;Resume&nbsp;Clone-000000?style=flat)](https://github.com/mcleanka/resume)
 [![React Covid Tracker Dashboard](https://img.shields.io/badge/-🃏&nbsp;&nbsp;React&nbsp;Covid&nbsp;Tracker&nbsp;Dashboard-000000?style=flat)](https://github.com/mcleanka/react-covid-tracker-dashboard)
-
-**Personal Statistics**
-
-<img align="right" alt="mcleanka's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mcleanka&count_private=0&show_icons=true&" />
-  
-[![mcleanka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mcleanka&bg_color=efefef&color=77767b&line=c0bfbc&point=c0bfbc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
